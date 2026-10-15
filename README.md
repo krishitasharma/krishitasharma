@@ -59,7 +59,7 @@ Investigated defensive security behaviour in a controlled lab and mapped finding
 - Security Operations and SIEM
 - Threat Detection and Incident Response
 - Vulnerability Management
-- Security Automation with Python
+
 
 ## 📫 Connect With Me
 
